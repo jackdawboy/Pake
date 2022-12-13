@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "JXAU",
+    "productName": "Jackdawboy",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://www.jxau.edu.cn/",
+        "url": "https://blog.jackdawboy.com/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
